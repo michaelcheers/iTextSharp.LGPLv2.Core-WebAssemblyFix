@@ -29,7 +29,6 @@
     <PlatformTarget>anycpu</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup>	
-    <DefineConstants>NET40</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
